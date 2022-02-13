@@ -1,0 +1,60 @@
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+    }
+    h2{
+        font-size: 40px;
+    }
+    p{
+        color: rgb(238, 108, 114);
+    }
+    body{
+        margin: 0%;
+    }
+    .name-highlight{
+        color: rgb(0, 255, 55);
+    }
+    .top-design{
+        color: gold;
+    }
+    .half-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    .half-width img{
+        width: 100%;
+    }
+    .top-side{
+        background-image: url("images/background\ 211.jpg");
+        background-repeat: no-repeat;
+    }
+    section{
+        height: 500px;
+        padding-bottom: 150px;
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(45deg, rgb(209, 178, 0),rgb(197, 255, 71));
+        background-color: orange;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color:seashell;
+        font-weight: 700;
+    }
+    .dream-area{
+        background-image: url("images/back1234.JPG");
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    .orange-light{
+        color: orange;
+    }
+    .experience-area{
+        color: rgb(0, 217, 255);
+        box-shadow: 10px 10px 40px rgb(243, 234, 234);
+    }
+    .blog{
+        box-shadow: 10px 10px;
+    }
