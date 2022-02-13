@@ -56,5 +56,11 @@ h1{
         box-shadow: 10px 10px 40px rgb(243, 234, 234);
     }
     .blog{
-        box-shadow: 10px 10px;
+        box-shadow: 10px 10px 40px gray;
+    }
+    .para{
+        text-align: center;
+        color: rgba(17, 32, 246, 0.89);
+        font-size: 900;
+        font-family: monospace;
     }
